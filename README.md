@@ -1,14 +1,6 @@
 # Docker Todo List
 
-O Docker Todo List é um projeto que foi desenvolvido com o objetivo de aprender e aplicar conceitos e comandos do Docker. Nele, foram containerizadas aplicações, criada uma conexão entre elas e orquestrado seu funcionamento.
-
-## Funcionalidades
-
-O projeto possui as seguintes funcionalidades:
-
-- Conteinerização de aplicações: As aplicações do projeto são containerizadas usando o Docker, permitindo que sejam executadas de forma isolada e portátil.
-- Criação de conexão entre as aplicações: É criada uma conexão entre as aplicações usando a rede do Docker, permitindo que se comuniquem entre si.
-- Orquestração do funcionamento: O funcionamento das aplicações é orquestrado usando o Docker Compose, facilitando o gerenciamento e a execução das várias partes do sistema.
+O Docker Todo List é um projeto que foi desenvolvido com o objetivo de aprender e aplicar conceitos e comandos do Docker.
 
 ## Dependências
 
