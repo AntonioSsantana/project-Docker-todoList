@@ -1,6 +1,6 @@
 # Docker Todo List
 
-O Docker Todo List é um projeto que foi desenvolvido com o objetivo de aprender e aplicar conceitos e comandos do Docker. Responsável pelos arquivos presentes na pasta `/docker`.
+O Docker Todo List é um projeto que foi desenvolvido com o objetivo de aprender e aplicar conceitos e comandos do Docker presentes na pasta `/docker`.
 
 ## Dependências
 
